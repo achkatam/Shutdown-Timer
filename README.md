@@ -15,6 +15,7 @@ A simple Python script with a GUI using Tkinter that allows users to set a timer
 
 ## How to Use
 
+Simply download the .rar file and extract it. Then, run the shutdown_timer.exe - shortcut file and there you go.
 
 1. Clone the repository:
 
